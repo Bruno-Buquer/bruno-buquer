@@ -41,7 +41,7 @@ Sou desenvolvedor full-stack e monitor bolsista na **UERJ - Nova Friburgo**, ond
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -53,6 +53,7 @@ Sou desenvolvedor full-stack e monitor bolsista na **UERJ - Nova Friburgo**, ond
 </div>
 
 ---
+-->
 
 <div align="center">
 
