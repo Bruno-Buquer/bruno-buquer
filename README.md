@@ -46,8 +46,9 @@ Sou desenvolvedor full-stack e monitor bolsista na **UERJ - Nova Friburgo**, ond
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno-Buquer&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Buquer&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bruno-Buquer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Buquer&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bruno-Buquer&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true" />
 
 </div>
 
